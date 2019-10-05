@@ -55,7 +55,7 @@ func getStartDateInfo() DateInfo {
     startTime := time.Now()
 
     // <MODIFY THIS IF START TIME IS DIFFERENT>
-    startTime = time.Date(2019, 10, 2, 0, 0, 0, 0, time.UTC)
+    // startTime = time.Date(2019, 9, 14, 0, 0, 0, 0, time.UTC)
     // </MODIFY THIS IF START TIME IS DIFFERENT>
 
     year, month, day := startTime.Date()
