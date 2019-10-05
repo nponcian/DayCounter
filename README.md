@@ -1,7 +1,7 @@
 DayCounter
 
 ## PURPOSE
-Count the number of days and working days between two dates. It is possible to enter holidays and work leave days to consider for the count. The application of this program is wide and endless, such as counting the exact days before the target delivery of products to customers, counting remaining days before deadline of submission of a school project, counting days spent in the hospital, or even counting remaining days upon resignation at work!
+Count the number of days and working days between two dates. It is possible to enter holidays and work leave days to consider for the count. The application of this program is wide and endless, such as counting the exact number of days before the target delivery of a product to a customer, counting the remaining days before the deadline of submission of a school project, counting the days spent in the hospital, or even counting the remaining days upon resignation at work!
 
 ## REQUIREMENTS
 1. GNU/Linux environment
