@@ -1,4 +1,4 @@
-DayCounter
+# DayCounter
 
 ## PURPOSE
 Count the number of days and working days between two dates. It is possible to enter holidays and work leave days to consider for the count. The application of this program is wide and endless, such as counting the exact number of days before the target delivery of a product to a customer, counting the remaining days before the deadline of submission of a school project, counting the days spent in the hospital, or even counting the remaining days upon resignation at work!
@@ -31,7 +31,8 @@ go build
 cd DayCounter/src
 ./src
 ~~~
-Example
+
+## SAMPLE RUN
 ~~~
 nponcian@nponcian-VirtualBox-Ubuntu:~/Documents/Programs$ cd DayCounter/src/
 nponcian@nponcian-VirtualBox-Ubuntu:~/Documents/Programs/DayCounter/src$ go build
